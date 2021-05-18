@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkKiraa
-- 👀 I’m interested in CyberSecurity, Debelopment
-- 🌱 I’m currently learning Cloud Computing
+- 👀 I’m interested in CyberSecurity, and Blockchain
+- 🌱 I’m currently learning Cloud Computing and Blockchain
 
 <!---
 DarkKiraa/DarkKiraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
